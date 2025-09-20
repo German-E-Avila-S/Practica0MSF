@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación del estudiante
 German E. Avila [22212250]; L22212250@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
